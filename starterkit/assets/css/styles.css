@@ -80,6 +80,10 @@ header {
   margin-top: 50px;
 }
 
+#result {
+  margin-bottom: 2rem;
+}
+
 .result-content {
   margin-top: 10px;
   background: #1A1A1A;
